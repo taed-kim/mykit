@@ -1,0 +1,13 @@
+:root {
+  /* Color */
+  --color-primary: #3B82F6;
+  --color-gray-900: #111827;
+  --color-gray-600: #4B5563;
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+
+  /* Shadow */
+  --shadow-sm: 0 2px 8px rgba(0,0,0,.08);
+}
